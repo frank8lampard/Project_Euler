@@ -4,7 +4,7 @@
 
 x=0
 Sum=0
-for x in range(1000):
+for x in range(1000):1
     if x % 3==0 or x % 5==0:
         Sum+=x
 print(Sum)
